@@ -4,8 +4,7 @@
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12 segment-one md-mb-30 sm-mb-30">
             <h3>Project BT2008</h3>
-            <p>This Project has been made by Apoorv Maurya, Abhay Yadav, Aditya Raj and Suchit Thakur with the help of 
-              our guide Dr. Nitin Mishra
+            <p>This Project has been made by Apoorv Maurya,
               
             </p>
           </div>
